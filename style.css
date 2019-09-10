@@ -1,0 +1,60 @@
+#banner_image{
+ padding-top: 75px;
+ padding-bottom: 83px;
+ text-align: center;
+ color: #f8f8f8;
+ background: url(img/background.png);
+ background-size: cover;
+}
+#banner_content{
+ position: relative;
+ padding-top: 6%;
+ padding-bottom: 6%;
+ margin-top: 12%;
+ margin-bottom: 12%;
+ background: url(img/online.jpg);
+ background-color: rgba(0, 0, 0, 0.7); 
+ max-width: 6600px;
+}
+footer{
+ padding: 10px 0;
+ background-color: #101010;
+ color:#9d9d9d;
+ bottom: 0;
+ width: 100%;
+}
+.row_style11{
+    margin-top: 140px;
+    margin-bottom: 23px;
+}
+.row_style1{
+    margin-top: 140px;
+    margin-bottom: 166px;
+}
+.row_style2{
+    margin-top: 115px;
+    margin-bottom: 169px;
+}
+.row_style0{
+    margin-top: 115px;
+    margin-bottom: 112px;
+}
+.row_style{
+    margin-top: 80px;
+}
+.row_style3{
+    margin-top: 80px;
+    margin-bottom: 404px;
+}
+.row_style4{
+    margin-top: 80px;
+    margin-bottom: 250px;
+}
+.row_style5{
+    margin-top: 80px;
+    margin-bottom: 503px;
+}
+.row_style6{
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
